@@ -1,0 +1,15 @@
+C:\Users\s38126\larping\obj\Debug\net10.0\larping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s38126\larping\obj\Debug\net10.0\larping.AssemblyInfoInputs.cache
+C:\Users\s38126\larping\obj\Debug\net10.0\larping.AssemblyInfo.cs
+C:\Users\s38126\larping\obj\Debug\net10.0\larping.csproj.CoreCompileInputs.cache
+C:\Users\s38126\larping\obj\Debug\net10.0\larping.sourcelink.json
+C:\Users\s38126\larping\bin\Debug\net10.0\larping.exe
+C:\Users\s38126\larping\bin\Debug\net10.0\larping.deps.json
+C:\Users\s38126\larping\bin\Debug\net10.0\larping.runtimeconfig.json
+C:\Users\s38126\larping\bin\Debug\net10.0\larping.dll
+C:\Users\s38126\larping\bin\Debug\net10.0\larping.pdb
+C:\Users\s38126\larping\obj\Debug\net10.0\larping.dll
+C:\Users\s38126\larping\obj\Debug\net10.0\refint\larping.dll
+C:\Users\s38126\larping\obj\Debug\net10.0\larping.pdb
+C:\Users\s38126\larping\obj\Debug\net10.0\larping.genruntimeconfig.cache
+C:\Users\s38126\larping\obj\Debug\net10.0\ref\larping.dll
