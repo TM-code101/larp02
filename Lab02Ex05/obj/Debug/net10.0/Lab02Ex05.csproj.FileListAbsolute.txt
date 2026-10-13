@@ -1,0 +1,15 @@
+C:\Users\speee\source\repos\Lab02Ex05\bin\Debug\net10.0\Lab02Ex05.exe
+C:\Users\speee\source\repos\Lab02Ex05\bin\Debug\net10.0\Lab02Ex05.deps.json
+C:\Users\speee\source\repos\Lab02Ex05\bin\Debug\net10.0\Lab02Ex05.runtimeconfig.json
+C:\Users\speee\source\repos\Lab02Ex05\bin\Debug\net10.0\Lab02Ex05.dll
+C:\Users\speee\source\repos\Lab02Ex05\bin\Debug\net10.0\Lab02Ex05.pdb
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\Lab02Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\Lab02Ex05.AssemblyInfoInputs.cache
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\Lab02Ex05.AssemblyInfo.cs
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\Lab02Ex05.csproj.CoreCompileInputs.cache
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\Lab02Ex05.dll
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\refint\Lab02Ex05.dll
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\Lab02Ex05.pdb
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\Lab02Ex05.genruntimeconfig.cache
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\ref\Lab02Ex05.dll
+C:\Users\speee\source\repos\Lab02Ex05\obj\Debug\net10.0\Lab02Ex05.csproj.Up2Date
